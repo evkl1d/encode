@@ -19,7 +19,7 @@
 /**
   Blowfish.js from Dojo Toolkit 1.8.1 (https://github.com/dojo/dojox/tree/1.8/encoding)
   Extracted by Sladex (xslade@gmail.com)
-  Shoehorned into working with mjs for CyberChef by Matt C (matt@artemisbot.uk)
+  Shoehorned into working with mjs for HackScopeChef by Matt C (matt@artemisbot.uk)
   Refactored and implemented modes support by cbeuw (cbeuw.andy@gmail.com)
 
   @license BSD
@@ -55,7 +55,7 @@
  */
 
 /**
- * @author Flavio Diez [flaviofdiez+cyberchef@gmail.com]
+ * @author Flavio Diez [flaviofdiez+HackScopeChef@gmail.com]
  * @copyright Crown Copyright 2020
  * @license Apache-2.0
  */
@@ -208,7 +208,7 @@
  */
 
 /**
- * CyberChef - The Cyber Swiss Army Knife
+ * HackScopeChef - The Cyber Swiss Army Knife
  *
  * @copyright Crown Copyright 2016
  * @license Apache-2.0

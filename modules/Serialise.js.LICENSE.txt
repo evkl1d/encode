@@ -103,7 +103,7 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /**
- * CyberChef - The Cyber Swiss Army Knife
+ * HackScopeChef - The Cyber Swiss Army Knife
  *
  * @copyright Crown Copyright 2016
  * @license Apache-2.0

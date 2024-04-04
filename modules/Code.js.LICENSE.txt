@@ -100,7 +100,7 @@
  */
 
 /**
- * CyberChef - The Cyber Swiss Army Knife
+ * HackScopeChef - The Cyber Swiss Army Knife
  *
  * @copyright Crown Copyright 2016
  * @license Apache-2.0
@@ -159,7 +159,7 @@
 /**
  * Transform a json object into html representation
  *
- * Adapted for CyberChef by @n1474335 from jQuery json-viewer
+ * Adapted for HackScopeChef by @n1474335 from jQuery json-viewer
  * @author Alexandre Bodelot <alexandre.bodelot@gmail.com>
  * @link https://github.com/abodelot/jquery.json-viewer
  * @license MIT

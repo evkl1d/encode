@@ -104,7 +104,7 @@
  */
 
 /**
- * @author George O [georgeomnet+cyberchef@gmail.com]
+ * @author George O [georgeomnet+HackScopeChef@gmail.com]
  * @copyright Crown Copyright 2019
  * @license Apache-2.0
  */
@@ -302,14 +302,14 @@
  */
 
 /**
- * @author masq [github.cyberchef@masq.cc]
+ * @author masq [github.HackScopeChef@masq.cc]
  * @author n1073645
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
  */
 
 /**
- * @author masq [github.cyberchef@masq.cc]
+ * @author masq [github.HackScopeChef@masq.cc]
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
  */
@@ -582,7 +582,7 @@
  */
 
 /**
- * CyberChef - The Cyber Swiss Army Knife
+ * HackScopeChef - The Cyber Swiss Army Knife
  *
  * @copyright Crown Copyright 2016
  * @license Apache-2.0
